@@ -25,6 +25,18 @@ img {
     padding-bottom: 5px;
 }
 
+table {
+    padding-bottom: 30px;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    border-bottom: 2px solid #ddd;
+}
 
 /* Main body site content */
 .container { 
