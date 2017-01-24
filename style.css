@@ -32,7 +32,7 @@ table {
 
 th, td {
     padding: 8px;
-    text-align: left;
+    text-align: center;
 }
 
 th {
@@ -54,20 +54,15 @@ th {
     box-shadow: 0 1px 4px 0 rgba(0,0,0,0.14);
 }
 
-/* .container li { */
-/*     font-weight: 600; */
-/* } */
-
 .body-block { 
     height: 100%;
-    padding: 0 20px 0 20px;
+    padding: 0 20px 20px 20px;
 }
+
 .site-content { 
     padding-top: 74px;
     height: 90%;
 }
-
-/* TODO Tables */
 
 /* Header */
 .header {
@@ -104,6 +99,7 @@ th {
 .navigation li { 
    padding-bottom: 3px; 
 } 
+
 .navigation a { 
     color: #444;
     text-decoration: none;
