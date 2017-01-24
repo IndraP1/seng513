@@ -26,6 +26,7 @@ img {
 }
 
 table {
+    border-collapse: collapse;
     padding-bottom: 30px;
 }
 
